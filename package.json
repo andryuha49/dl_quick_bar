@@ -1,0 +1,19 @@
+{
+  "name": "dl_quick_bar",
+  "version": "0.0.1",
+  "description": "Quick browser bar",
+  "main": "index.js",
+  "scripts": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andryuha49/dl_quick_bar.git"
+  },
+  "author": "Andriy Zherdiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andryuha49/dl_quick_bar/issues"
+  },
+  "homepage": "https://github.com/andryuha49/dl_quick_bar#readme"
+}
